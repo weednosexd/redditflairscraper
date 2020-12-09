@@ -21,4 +21,3 @@ def find_mod(subReddit):
     return mods
 
 find_mod('SGExams')
-print('ayoooo test')
